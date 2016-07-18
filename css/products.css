@@ -1,0 +1,25 @@
+body, html {
+  background-color: #F3F8FE;
+}
+
+.w3-section {
+  background-color: #629AF3;
+}
+
+.prodimage {
+  width: 35%;
+  height: auto;
+}
+
+.prodimage img {
+  width: 100%;
+  height: auto;
+}
+
+h2, p {
+  font-size: 1.5em;
+}
+
+.prodhead {
+  background-color: #FFEB9A;
+}

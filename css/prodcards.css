@@ -1,0 +1,71 @@
+body, html {
+  background-color: #9EC0F6;
+}
+
+.image {
+  width: 100%;
+}
+
+.image img {
+  width: 100%;
+  height: auto;
+  border-bottom: 3px solid black;
+}
+
+.w3-row {
+  margin-top: 50px;
+}
+
+.w3-container {
+  background-color: #629AF3;
+}
+
+.emrcontent {
+  background-color: #629AF3;
+  border: 3px solid black;
+}
+
+.emrcontent-item {
+  background-color: #B0A1F7;
+  border: 3px solid black;
+}
+
+.emrcontent-item-two {
+  background-color: #FFEB9A;
+  border: 3px solid black;
+}
+
+.emrcontent-item-three {
+  background-color: #FFDA9A;
+  border: 3px solid black;
+}
+
+.cloudcontent {
+  background-color: #FFA200;
+  border: 3px solid black;
+}
+
+.cloudcontent-item-two {
+  background-color: #629AF3;
+  border: 3px solid black;
+}
+
+.cloudcontent-item-three {
+  background-color: #B0A1F7;
+  border: 3px solid black;
+}
+
+.insurancecont {
+  background-color: #5333F4;
+  border: 3px solid black;
+}
+
+.insurancecont-item-two {
+  background-color: #FFEB9A;
+  border: 3px solid black;
+}
+
+.insurancecont-item-three {
+  background-color: #FFD119;
+  border: 3px solid black;
+}

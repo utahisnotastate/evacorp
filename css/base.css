@@ -1,0 +1,115 @@
+body {
+  background-color: #F3F8FE;
+}
+
+.w3-navbar {
+  background-color: #FFA200;
+}
+
+.w3-navbar ul li {
+  background-color: #9EC0F6;
+}
+
+.w3-navbar ul li a {
+  color: #B0A1F7;
+}
+
+.first-row {
+  margin-top: 50px;
+}
+
+.mySlides {
+  display: none;
+}
+
+#medp {
+  background-color: #9EC0F6;
+  color: #2C79F2;
+}
+
+#hosps {
+  background-color: #2C04F2;
+  color: #F6F4FE;
+}
+
+#insurance {
+  background-color: #FFCD00;
+  color: #FFFDF3;
+  border: 1px solid black;
+}
+
+#speciality {
+  background-color: #FFDA9A;
+  color: #FFA200;
+  border: 1px solid black;
+}
+
+#aboutintro {
+  padding-top: 50px;
+}
+
+footer {
+  background-color: #FFA200;
+}
+
+footer h4 {
+  text-align: center;
+}
+
+#row1index {
+  background-color: #B0A1F7;
+}
+
+#row2 {
+  background-color: #9EC0F6;
+}
+
+#row2index {
+  background-color: #9EC0F6;
+}
+
+.clients {
+  min-height: 300px;
+}
+
+#evaehr ul, #evacloud ul, #evaapi ul {
+  background-color: #035FF0;
+}
+
+#evaehr ul li, #evacloud ul li, #evaapi ul li {
+  color: #9EC0F6;
+}
+
+#evaehr ul li p, #evacloud ul li p, #evaapi ul li p {
+  color: #9EC0F6;
+}
+
+#evacloud .w3-ul {
+  min-height: 515px;
+}
+
+#evaapi .w3-ul {
+  min-height: 515px;
+}
+
+#whowe {
+  background-color: #FFDA9A;
+}
+
+#whowe .w3-card-4 .w3-container {
+  background-color: #FFC257;
+}
+
+.testimg {
+  width: 100%;
+  height: auto;
+  max-height: 700px;
+}
+
+.prodcard {
+  background-color: #2C79F2;
+}
+
+.clientcard {
+  background-color: #7F68F4;
+}

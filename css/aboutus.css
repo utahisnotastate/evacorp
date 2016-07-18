@@ -1,0 +1,38 @@
+p {
+  color: #035FF0;
+}
+
+#aboutintro h1 {
+  text-align: center;
+  color: #2C79F2;
+}
+
+#aboutintro h3 {
+  color: #2C04F2;
+}
+
+.aboutcontent {
+  margin-top: 50px;
+  width: 80%;
+  margin: auto;
+  margin-bottom: 20px;
+}
+
+.head {
+  text-align: center;
+}
+
+.executive .w3-container {
+  width: 90%;
+  margin: auto;
+  box-shadow: 5px 5px 2px #2C79F2, 5px 5px 2px #2C79F2;
+  background-color: #9EC0F6;
+}
+
+.executive .w3-container h3 {
+  color: #035FF0;
+}
+
+.executive .w3-container h3 p {
+  color: #035FF0;
+}

@@ -1,0 +1,156 @@
+$bluemain: #629AF3;	// Main Primary color */
+$bluewhite: #F3F8FE;
+$bluelight: #9EC0F6;
+$bluedark: #2C79F2;
+$bluedarker: #035FF0;
+
+$purplemain: #7F68F4;	// Main Secondary color (1) */
+$purplewhite: #F6F4FE;
+$purplelight: #B0A1F7;
+$purpledark: #5333F4;
+$purpledarker: #2C04F2;
+
+$yellowmain: #FFDE57;	// Main Secondary color (2) */
+$yellowwhite: #FFFDF3;
+$yellowlight: #FFEB9A;
+$yellowmdark: #FFD119;
+$yellowmdarker: #FFCD00;
+
+$orangemain: #FFC257;	// Main Complement color */
+$orangewhite: #FFFBF3;
+$orangelight: #FFDA9A;
+$orangedark: #FFAB19;
+$orangedarker: #FFA200;
+
+body {
+    background-color: $bluewhite;
+}
+.w3-navbar {
+    background-color: $orangedarker;
+    ul {
+        
+        li{
+            background-color: $bluelight;
+            a {
+                color: $purplelight;
+            }
+        }
+        
+    }
+}
+
+
+
+.first-row {
+    margin-top: 50px;
+}
+
+.mySlides {
+    display:none;
+    
+}
+#medp {
+    background-color:$bluelight;
+    color: $bluedark;
+}
+
+#hosps {
+    background-color:$purpledarker;
+    color: $purplewhite;
+    
+}
+
+#insurance {
+    background-color:$yellowmdarker;
+    color: $yellowwhite;
+    border:1px solid black;
+    
+}
+#speciality {
+    background-color:$orangelight;
+    color: $orangedarker;
+    border:1px solid black;
+    
+}
+
+#aboutintro {
+    padding-top: 50px;
+}
+
+footer {
+    background-color: $orangedarker;
+        h4 {
+            text-align: center;
+        }
+}
+
+#row1index {
+    background-color: $purplelight;
+}
+
+#row2 {
+    background-color: $bluelight;
+}
+#row2index {
+    background-color: $bluelight;
+        
+}
+
+.clients {
+    min-height: 300px;
+}
+
+#evaehr {
+    
+    ul{
+        background-color: $bluedarker;
+        li {
+            color: $bluelight;
+            p {
+                color: $bluelight;
+                
+            }
+            
+        }
+    }
+    
+}
+
+#evacloud {
+    @extend #evaehr;
+    .w3-ul {
+        min-height: 515px;
+    }
+    
+}
+
+#evaapi {
+    @extend #evaehr;
+    .w3-ul {
+        min-height: 515px;
+    }
+    
+}
+
+#whowe {
+    background-color: $orangelight; 
+        .w3-card-4 {
+            .w3-container {
+            background-color: $orangemain;
+            }
+        }  
+}
+
+.testimg {
+    width: 100%;
+    height: auto;
+    max-height: 700px;
+}
+
+.prodcard {
+    background-color: $bluedark;
+}
+
+.clientcard {
+    background-color: $purplemain;
+}
